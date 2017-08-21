@@ -7,3 +7,4 @@ The repository is home of replication material for the paper "A Fourth Wave of P
 
 This repository has benefited from intro material for GitHub from Simon Munzert:
 https://github.com/simonmunzert/github-primer
+Instances of poor implementation are all my fault. 
