@@ -16,7 +16,7 @@ MZES Mannheim (Germany)
 
 ## A glimpse at the core results
 ![Model of electoral success of populist parties](figures/Fig5.jpeg)
-
+**Figure 5: A model of log vote shares of populist parties in western Europe.**
 
 ## Acknowledgements
 This repository has benefited from intro material for GitHub from Simon Munzert:
