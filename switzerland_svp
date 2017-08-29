@@ -1,9 +1,0 @@
-#Electoral results for the Swiss SVP
-
-#Source: ...
-
-svp <- read.table(header = TRUE, sep=",", blank.lines.skip=TRUE, text = "
-elec, share
-2011, 26.6
-2015, 29.4
-")	
