@@ -17,5 +17,7 @@ MZES Mannheim (Germany)
 ## A glimpse at the core results
 ![Model of electoral success of populist parties](figures/fig5.jpg)
 
+
+## Acknowledgements
 This repository has benefited from intro material for GitHub from Simon Munzert:
 https://github.com/simonmunzert/github-primer. Instances of poor implementation are all my fault. 
