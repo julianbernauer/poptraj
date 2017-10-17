@@ -1,25 +1,22 @@
-#A list of populist parties included 
+Country       ,  Party names 	              ,            Abbreviation,	  Elections covered
+Austria	  ,      Austrian Freedom Party	      ,          FPÖ	       ,     "2002, 2006, 2008, 2013"
+Belgium	   ,     Vlaams Belang	              ,            VB	     ,       "2003, 2007, 2010, 2014"
+Denmark	   ,     Dansk Folkeparti	          ,            DF	     ,       "2001, 2005, 2007, 2011, 2015"
+Finland	   ,     True Finns 	              ,              PS	     ,       "2003, 2007, 2011, 2015"
+France	    ,    Front National	               ,         FN	         ,   "2002, 2007, 2012, 2017"
+Germany	     ,   National Democratic Party of Germany	 , NPD	     ,      "2005, 2009, 2013"
+Great Britain	,  United Kingdom Independence Party	,      UKIP	 ,         "2001, 2005, 2010, 2015, 2017"
+	        ,      British National Party	          ,      BNP	 ,          "2001, 2005, 2010, 2015, 2017"
+Iceland	    ,    -		,,
+Ireland	    ,    -		,,
+Italy	    ,      Lega Nord	                 ,             LN	  ,         "2001, 2005, 2008, 2013"
+Netherlands	 ,   List Wilders                    ,        PVV	      ,    "2006, 2010, 2012, 2017"
+	          ,    Social Reformed Party	     ,             SGP	   ,       "2002, 2003, 2006, 2010, 2012, 2017"
+Norway	      ,  Progress Party	                 ,       FRP	       ,    "2001, 2005, 2009, 2013"
+Portugal	 ,     -		,,
+Spain	      ,    -		,
+Sweden	      ,  Sverigedemokraterna	          ,          SD	       ,     "2002, 2006, 2010, 2014"
+Switzerland	  ,  Swiss People's Party 	          ,        SVP	        ,  "2003, 2007, 2011, 2015"
+	          ,    Federal Democratic Union	       ,       EDU	       ,   "2003, 2007, 2011, 2015"
+	           ,   Ticino League	               ,           LDT	    ,        "2003, 2007, 2011, 2015"
 
-Country         Party names 	                          Abbreviation	  Elections covered
-Austria	        Austrian Freedom Party	                FPÖ	            2002, 2006, 2008, 2013
-Belgium	        Vlaams Belang	                          VB	            2003, 2007, 2010, 2014
-Denmark	        Dansk Folkeparti	                      DF	            2001, 2005, 2007, 2011, 2015
-Finland	        True Finns 	                            PS	            2003, 2007, 2011, 2015
-France	        Front National	                        FN	            2002, 2007, 2012, 2017
-Germany	        National Democratic Party of Germany	  NPD	            2005, 2009, 2013
-Great Britain	  United Kingdom Independence Party	      UKIP	          2001, 2005, 2010, 2015, 2017
-	              British National Party	                BNP	            2001, 2005, 2010, 2015, 2017
-Iceland	        -		
-Ireland	        -		
-Italy	          Lega Nord	                              LN	            2001, 2005, 2008, 2013
-Netherlands	    List Wilders                            PVV	            2006, 2010, 2012, 2017
-	              Social Reformed Party	                  SGP	            2002, 2003, 2006, 2010, 2012, 2017
-Norway	        Progress Party	                        FRP	            2001, 2005, 2009, 2013
-Portugal	      -		
-Spain	          -		
-Sweden	        Sverigedemokraterna	                    SD	            2002, 2006, 2010, 2014
-Switzerland	    Swiss People's Party 	                  SVP	            2003, 2007, 2011, 2015
-	              Federal Democratic Union	              EDU	            2003, 2007, 2011, 2015
-	              Ticino League	                          LDT	            2003, 2007, 2011, 2015
-
-#Notes: Populist parties identified following Inglehart and Norris (2016), but replacing the German CSU with the Swiss LDT (see discussion above). 
